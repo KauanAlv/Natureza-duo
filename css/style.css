@@ -1,0 +1,22 @@
+body{
+    font-family: Cormorant Garamond, sans-serif;
+}
+.quadrado{
+    display: flex;
+    flex-direction: column;
+    margin: 58px;
+    height: 90vh;
+}
+
+header{
+    background-color: aqua;
+}
+
+main{
+    flex-grow: 1;
+    background-color: yellow;
+}
+
+footer{
+    background-color: green;
+}
